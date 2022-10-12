@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/91548310/195278626-dc77ae13-262b-419b-8a27-ad1d95f3ced4.png)
 
 I'm learning frontend about 1 year and I'm really passionate about the process.
-Currently looking for a job as **Frontend/ React developer**.
+Currently looking for a job as a **Frontend/ React developer**.
 
 ## Technology Stack :arrow_heading_down:
 
