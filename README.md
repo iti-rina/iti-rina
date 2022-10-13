@@ -3,6 +3,8 @@
 I'm learning frontend about 1 year and I'm really passionate about the process.
 Currently looking for a job as a **Frontend/ React developer**.
 
+***Fun fact*** : I have three "ToDo List" projects that I was designed at different stages of my frontend learning. Technology stacks differ from vanilla JS to React + Redux implementation. So, you can see my "evolution" as a novice developer on GitHub :blush:
+
 ## Technology Stack :arrow_heading_down:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
