@@ -1,5 +1,3 @@
-<img src="./thumbnail.JPG" alt="banner" width="100%">
-
 I'm a frontend engineer with 1 year of commercial experience and I'm really passionate about the process.
 Currently looking for a job as a **Frontend/ React developer**.
 
